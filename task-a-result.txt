@@ -1,0 +1,13 @@
+Task A: Gender Classification
+
+Final Validation Accuracy: 93.60%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      female       0.86      0.78      0.82        79
+        male       0.95      0.97      0.96       343
+
+    accuracy                           0.94       422
+   macro avg       0.91      0.88      0.89       422
+weighted avg       0.93      0.94      0.93       422

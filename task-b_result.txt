@@ -1,0 +1,16 @@
+Task B: Face Recognition
+
+✅ Top-1 Accuracy: 0.8032
+✅ Macro-Averaged F1 Score: 1.0000
+
+📊 Sample Results (random 10):
+Larry_Coker_0003_noisy.jpg | True: Larry_Coker | Predicted: Larry_Coker | Similarity: 0.4004 | Match: 0
+Harrison_Ford_0005_rainy.jpg | True: Harrison_Ford | Predicted: Harrison_Ford | Similarity: 0.5233 | Match: 0
+Fernando_Valenzuela_0001_resized.jpg | True: Fernando_Valenzuela | Predicted: Fernando_Valenzuela | Similarity: 0.9965 | Match: 1
+Fran_Drescher_0001_foggy.jpg | True: Fran_Drescher | Predicted: Fran_Drescher | Similarity: 0.8516 | Match: 1
+Thomas_Manger_0001_lowlight.jpg | True: Thomas_Manger | Predicted: Thomas_Manger | Similarity: 0.9477 | Match: 1
+Candice_Bergen_0003_foggy.jpg | True: Candice_Bergen | Predicted: Candice_Bergen | Similarity: 0.9005 | Match: 1
+Hung_Wan-ting_0001_rainy.jpg | True: Hung_Wan-ting | Predicted: Eric_Hinske | Similarity: 0.4851 | Match: 0
+Wen_Jiabao_0003_noisy.jpg | True: Wen_Jiabao | Predicted: Wen_Jiabao | Similarity: 0.7493 | Match: 1
+Tim_Floyd_0002_lowlight.jpg | True: Tim_Floyd | Predicted: Tim_Floyd | Similarity: 0.9652 | Match: 1
+Cate_Blanchett_0004_noisy.jpg | True: Cate_Blanchett | Predicted: Cate_Blanchett | Similarity: 0.3780 | Match: 0

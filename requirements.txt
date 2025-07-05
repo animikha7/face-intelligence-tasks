@@ -1,0 +1,13 @@
+## 🛠 Requirements
+
+- Python 3.7+
+- PyTorch
+- torchvision
+- facenet-pytorch
+- efficientnet-pytorch
+- albumentations (if data augmentation used in Task A)
+- Google Colab or Jupyter environment
+
+Install packages using:
+```bash
+pip install facenet-pytorch efficientnet_pytorch torchvision
